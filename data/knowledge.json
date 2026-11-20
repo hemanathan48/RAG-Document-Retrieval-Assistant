@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "content":"python is a programming language used for AI and Machine learning."
+    },
+    {
+        "id":2,
+        "content":"RAG stands for Retrieval Augmented Generating an answer."
+    },
+    {
+        "id":3,
+        "content":"FastAPI is a Python framework used to build Rest APIs."
+    },
+    {
+        "id":4,
+        "content":"ChromaDB is a vector database used to store and retrieve embeddings."
+
+    }
+]
